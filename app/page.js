@@ -1,9 +1,12 @@
-import Posts from './Posts';
+
+import Posts from "./Post";
 
 export default function Home() {
   return (
     <div>
-        <Posts />
+<Posts />
     </div>
   );
 }
+
+
